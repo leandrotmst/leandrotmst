@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Leandro Tomasetto👋
 
-- 🔭 Estou trabalhando com back-end
+- 🔭 Estou trabalhando com automações e análise de dados
 - 💬 Ask me about ...
 - 🌱 Estou aprendendo Python
 - 📫 Contate-me pelo Linkedin: Leandro Tomasetto
-- 🤔 Estou estudando alemão
+- 🤔 Estou estudando alemão e sou fluente em inglês
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
