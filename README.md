@@ -9,8 +9,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <div>
+  <h1>Certificado</h1>
   <a href="https://www.udemy.com/certificate/UC-eec78492-08f0-439a-97c5-cd10ba91f94b/">
-    <img align="center" height="100" width="100" src="https://www.udemy.com/certificate/UC-eec78492-08f0-439a-97c5-cd10ba91f94b/" />
+    Python
   </a>
 </div>
 
