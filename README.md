@@ -8,6 +8,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
+<div>
+  <img src="https://www.udemy.com/certificate/UC-eec78492-08f0-439a-97c5-cd10ba91f94b/" />
+</div>
 
 <div>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
