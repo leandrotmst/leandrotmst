@@ -9,13 +9,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <div>
-  <h1>Certificado</h1>
-  <a href="https://www.udemy.com/certificate/UC-eec78492-08f0-439a-97c5-cd10ba91f94b/">
-    Python
-  </a>
-</div>
-
-<div>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original-wordmark.svg" />
