@@ -1,8 +1,4 @@
-## Olá! Eu sou o Leandro Tomasetto👋
-
-- 🔭 Estou trabalhando com automações e análise de dados
 - 🌱 Python (Django, SQL), HTML e CSS
-- 📫 Contate-me pelo Linkedin: Leandro Tomasetto
 - 🤔 Sou fluente em inglês
 - 💬 Ask me about ...
 
