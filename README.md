@@ -34,5 +34,5 @@ Olá! Me chamo Leandro, tenho 17 anos. Sou estudante de **Engenharia de Software
 <p align="center">
   <a href="https://www.instagram.com/leandro.tomasetto/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/leandrotmst"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://https://www.linkedin.com/in/leandro-tomasetto-7b11452b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/leandro-tomasetto-7b11452b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
