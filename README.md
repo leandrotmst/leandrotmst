@@ -24,15 +24,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrotmst&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-<div>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original-wordmark.svg" />
-</div>
+### 📫 Conecte-se comigo
 
-##
-
-
-<div>
-  <a href="https://www.linkedin.com/in/leandro-tomasetto-7b11452b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge%logo=linkedin%logoColor=white" target="_blank"></a>
-</div>
+<p align="center">
+  <a href="https://www.instagram.com/leandro.tomasetto/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/leandrotmst"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://https://www.linkedin.com/in/leandro-tomasetto-7b11452b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
