@@ -6,7 +6,12 @@
 - 🤔 Sou fluente em inglês
 - 💬 Ask me about ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lemoswayne&show_icons=true&theme=radical" alt="João Pedro GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemoswayne&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 <div>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
@@ -15,6 +20,7 @@
 </div>
 
 ##
+
 
 <div>
   <a href="https://www.linkedin.com/in/leandro-tomasetto-7b11452b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge%logo=linkedin%logoColor=white" target="_blank"></a>
