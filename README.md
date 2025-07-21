@@ -9,8 +9,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lemoswayne&show_icons=true&theme=radical" alt="João Pedro GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemoswayne&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandrotmst&show_icons=true&theme=radical" alt="Leandro Tomasetto GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrotms&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <div>
