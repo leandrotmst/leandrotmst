@@ -1,3 +1,5 @@
+<h1 align="center">Leandro Tomasetto</h1>
+
 - 🌱 Python (Django, SQL), HTML e CSS
 - 🤔 Sou fluente em inglês
 - 💬 Ask me about ...
