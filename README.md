@@ -6,6 +6,17 @@
 - 🤔 Sou fluente em inglês
 - 💬 Ask me about ...
 
+  
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,postgresql,mysql,git,github,linux,html,css" alt="Tech Stack"/>
+  </a>
+</p>
+
+---
+
 ## 📊 Estatísticas
 
 <p align="center">
