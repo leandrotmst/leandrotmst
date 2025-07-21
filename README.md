@@ -6,7 +6,14 @@
 - 🤔 Sou fluente em inglês
 - 💬 Ask me about ...
 
-  
+---
+
+## 👨‍💻 Sobre mim
+
+Olá! Me chamo Leandro, tenho 17 anos. Sou estudante de **Engenharia de Software pela PUCPR** e atuo como desenvolvedor fullstack, com foco em tecnologias como **Python**.
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
