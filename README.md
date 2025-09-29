@@ -16,7 +16,7 @@ Olá! Me chamo Leandro, tenho 17 anos. Sou estudante de **Engenharia de Software
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c++,javascript,python,django,postgresql,mysql,git,github,linux,html,css" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=cpp,javascript,python,django,postgresql,mysql,git,github,linux,html,css" alt="Tech Stack"/>
   </a>
 </p>
 
