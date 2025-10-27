@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Me chamo Leandro, tenho 17 anos. Sou estudante de **Engenharia de Software pela PUCPR** e atuo como desenvolvedor fullstack, com foco em tecnologias como **Python**.
+Olá! Me chamo Leandro, tenho Day.now() - '2007-11-05' anos. Sou estudante de **Engenharia de Software pela PUCPR** e atuo como desenvolvedor fullstack, com foco em tecnologias como **Python**.
 
 ---
 
