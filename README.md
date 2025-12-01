@@ -22,12 +22,14 @@ Olá! Me chamo Leandro, tenho 18 anos. Sou estudante de **Engenharia de Software
 
 ---
 
+<!---
 ## 📊 Estatísticas
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandrotmst&show_icons=true&theme=radical" alt="Leandro Tomasetto GitHub Stats"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrotmst&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
 </p>
+--->
 
 ### 📫 Conecte-se comigo
 
